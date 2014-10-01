@@ -1,1 +1,12 @@
 Trabajo en equipo con git
+
+¿Cual es la diferencia entre compilacion e interpretacion?
+
+La compilacion coje un fichero con texto, y crea un ejecutable en codigo maquina, la interpretacion en cambio va ejecutando las instrucciones una a una sin necesidad de crear un ejecutable.
+
+Es decir la compilacion lee todo el codigo y lo prepara para ejecutar (debe estar correcto todo para poder compilarlo) y la interpretacion va ejecutando en orden el codigo (podria haber un fallo pero no lo sabrias hasta llegar a ese punto).
+
+¿Cual es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+¿Que significado tiene la primera linea del fichero helloWorld.sh?
+
+En el .sh en la primera linea se indica el interprete a utilizar para ejecutar el codigo que contiene el fichero.
